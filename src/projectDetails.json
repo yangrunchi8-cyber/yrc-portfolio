@@ -1,0 +1,548 @@
+[
+  {
+    "id": 1,
+    "slug": "miaoya",
+    "title": "妙呀 AI 创作平台",
+    "pageCount": 21,
+    "pages": [
+      {
+        "src": "/assets/projects/miaoya/01.webp",
+        "src2x": null,
+        "width": 1920,
+        "height": 1080
+      },
+      {
+        "src": "/assets/projects/miaoya/02.webp",
+        "src2x": null,
+        "width": 1920,
+        "height": 1080
+      },
+      {
+        "src": "/assets/projects/miaoya/03.webp",
+        "src2x": null,
+        "width": 1920,
+        "height": 1080
+      },
+      {
+        "src": "/assets/projects/miaoya/04.webp",
+        "src2x": null,
+        "width": 1920,
+        "height": 1080
+      },
+      {
+        "src": "/assets/projects/miaoya/05.webp",
+        "src2x": null,
+        "width": 1920,
+        "height": 1080
+      },
+      {
+        "src": "/assets/projects/miaoya/06.webp",
+        "src2x": null,
+        "width": 1920,
+        "height": 1080
+      },
+      {
+        "src": "/assets/projects/miaoya/07.webp",
+        "src2x": null,
+        "width": 1920,
+        "height": 1080
+      },
+      {
+        "src": "/assets/projects/miaoya/08.webp",
+        "src2x": null,
+        "width": 1920,
+        "height": 1080
+      },
+      {
+        "src": "/assets/projects/miaoya/09.webp",
+        "src2x": null,
+        "width": 1920,
+        "height": 1080
+      },
+      {
+        "src": "/assets/projects/miaoya/10.webp",
+        "src2x": null,
+        "width": 1920,
+        "height": 1578
+      },
+      {
+        "src": "/assets/projects/miaoya/11.webp",
+        "src2x": null,
+        "width": 1920,
+        "height": 1080
+      },
+      {
+        "src": "/assets/projects/miaoya/12.webp",
+        "src2x": null,
+        "width": 1920,
+        "height": 2253
+      },
+      {
+        "src": "/assets/projects/miaoya/13.webp",
+        "src2x": null,
+        "width": 1920,
+        "height": 1080
+      },
+      {
+        "src": "/assets/projects/miaoya/14.webp",
+        "src2x": null,
+        "width": 1920,
+        "height": 1080
+      },
+      {
+        "src": "/assets/projects/miaoya/15.webp",
+        "src2x": null,
+        "width": 1920,
+        "height": 1080
+      },
+      {
+        "src": "/assets/projects/miaoya/16.webp",
+        "src2x": null,
+        "width": 1920,
+        "height": 1080
+      },
+      {
+        "src": "/assets/projects/miaoya/17.webp",
+        "src2x": null,
+        "width": 1920,
+        "height": 1080
+      },
+      {
+        "src": "/assets/projects/miaoya/18.webp",
+        "src2x": null,
+        "width": 1920,
+        "height": 1080
+      },
+      {
+        "src": "/assets/projects/miaoya/19.webp",
+        "src2x": null,
+        "width": 1920,
+        "height": 1080
+      },
+      {
+        "src": "/assets/projects/miaoya/20.webp",
+        "src2x": null,
+        "width": 1920,
+        "height": 1080
+      },
+      {
+        "src": "/assets/projects/miaoya/21.webp",
+        "src2x": null,
+        "width": 1920,
+        "height": 1080
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "slug": "douyin",
+    "title": "抖音 · 聊天互动玩法",
+    "pageCount": 14,
+    "pages": [
+      {
+        "src": "/assets/projects/douyin/01.webp",
+        "src2x": "/assets/projects/douyin/01@2x.webp",
+        "width": 1920,
+        "height": 1080
+      },
+      {
+        "src": "/assets/projects/douyin/02.webp",
+        "src2x": "/assets/projects/douyin/02@2x.webp",
+        "width": 1920,
+        "height": 1080
+      },
+      {
+        "src": "/assets/projects/douyin/03.webp",
+        "src2x": "/assets/projects/douyin/03@2x.webp",
+        "width": 1920,
+        "height": 1080
+      },
+      {
+        "src": "/assets/projects/douyin/04.webp",
+        "src2x": "/assets/projects/douyin/04@2x.webp",
+        "width": 1920,
+        "height": 1080
+      },
+      {
+        "src": "/assets/projects/douyin/05.webp",
+        "src2x": "/assets/projects/douyin/05@2x.webp",
+        "width": 1920,
+        "height": 1080
+      },
+      {
+        "src": "/assets/projects/douyin/06.webp",
+        "src2x": "/assets/projects/douyin/06@2x.webp",
+        "width": 1920,
+        "height": 1080
+      },
+      {
+        "src": "/assets/projects/douyin/07.webp",
+        "src2x": "/assets/projects/douyin/07@2x.webp",
+        "width": 1920,
+        "height": 1080
+      },
+      {
+        "src": "/assets/projects/douyin/08.webp",
+        "src2x": "/assets/projects/douyin/08@2x.webp",
+        "width": 1920,
+        "height": 1080
+      },
+      {
+        "src": "/assets/projects/douyin/09.webp",
+        "src2x": "/assets/projects/douyin/09@2x.webp",
+        "width": 1920,
+        "height": 1080
+      },
+      {
+        "src": "/assets/projects/douyin/10.webp",
+        "src2x": "/assets/projects/douyin/10@2x.webp",
+        "width": 1920,
+        "height": 1080
+      },
+      {
+        "src": "/assets/projects/douyin/11.webp",
+        "src2x": "/assets/projects/douyin/11@2x.webp",
+        "width": 1920,
+        "height": 1080
+      },
+      {
+        "src": "/assets/projects/douyin/12.webp",
+        "src2x": "/assets/projects/douyin/12@2x.webp",
+        "width": 1920,
+        "height": 1080
+      },
+      {
+        "src": "/assets/projects/douyin/13.webp",
+        "src2x": "/assets/projects/douyin/13@2x.webp",
+        "width": 1920,
+        "height": 1080
+      },
+      {
+        "src": "/assets/projects/douyin/14.webp",
+        "src2x": "/assets/projects/douyin/14@2x.webp",
+        "width": 1920,
+        "height": 1080
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "slug": "snapgo",
+    "title": "SnapGo Camera",
+    "pageCount": 22,
+    "pages": [
+      {
+        "src": "/assets/projects/snapgo/01.webp",
+        "src2x": "/assets/projects/snapgo/01@2x.webp",
+        "width": 1920,
+        "height": 1080
+      },
+      {
+        "src": "/assets/projects/snapgo/02.webp",
+        "src2x": "/assets/projects/snapgo/02@2x.webp",
+        "width": 1920,
+        "height": 1080
+      },
+      {
+        "src": "/assets/projects/snapgo/03.webp",
+        "src2x": "/assets/projects/snapgo/03@2x.webp",
+        "width": 1920,
+        "height": 1080
+      },
+      {
+        "src": "/assets/projects/snapgo/04.webp",
+        "src2x": "/assets/projects/snapgo/04@2x.webp",
+        "width": 1920,
+        "height": 1080
+      },
+      {
+        "src": "/assets/projects/snapgo/05.webp",
+        "src2x": "/assets/projects/snapgo/05@2x.webp",
+        "width": 1920,
+        "height": 1080
+      },
+      {
+        "src": "/assets/projects/snapgo/06.webp",
+        "src2x": "/assets/projects/snapgo/06@2x.webp",
+        "width": 1920,
+        "height": 1080
+      },
+      {
+        "src": "/assets/projects/snapgo/07.webp",
+        "src2x": "/assets/projects/snapgo/07@2x.webp",
+        "width": 1920,
+        "height": 1080
+      },
+      {
+        "src": "/assets/projects/snapgo/08.webp",
+        "src2x": "/assets/projects/snapgo/08@2x.webp",
+        "width": 1920,
+        "height": 1080
+      },
+      {
+        "src": "/assets/projects/snapgo/09.webp",
+        "src2x": "/assets/projects/snapgo/09@2x.webp",
+        "width": 1920,
+        "height": 1080
+      },
+      {
+        "src": "/assets/projects/snapgo/10.webp",
+        "src2x": "/assets/projects/snapgo/10@2x.webp",
+        "width": 1920,
+        "height": 1080
+      },
+      {
+        "src": "/assets/projects/snapgo/11.webp",
+        "src2x": "/assets/projects/snapgo/11@2x.webp",
+        "width": 1920,
+        "height": 1080
+      },
+      {
+        "src": "/assets/projects/snapgo/12.webp",
+        "src2x": "/assets/projects/snapgo/12@2x.webp",
+        "width": 1920,
+        "height": 1080
+      },
+      {
+        "src": "/assets/projects/snapgo/13.webp",
+        "src2x": "/assets/projects/snapgo/13@2x.webp",
+        "width": 1920,
+        "height": 1080
+      },
+      {
+        "src": "/assets/projects/snapgo/14.webp",
+        "src2x": "/assets/projects/snapgo/14@2x.webp",
+        "width": 1920,
+        "height": 1080
+      },
+      {
+        "src": "/assets/projects/snapgo/15.webp",
+        "src2x": "/assets/projects/snapgo/15@2x.webp",
+        "width": 1920,
+        "height": 1080
+      },
+      {
+        "src": "/assets/projects/snapgo/16.webp",
+        "src2x": "/assets/projects/snapgo/16@2x.webp",
+        "width": 1920,
+        "height": 1080
+      },
+      {
+        "src": "/assets/projects/snapgo/17.webp",
+        "src2x": "/assets/projects/snapgo/17@2x.webp",
+        "width": 1920,
+        "height": 1080
+      },
+      {
+        "src": "/assets/projects/snapgo/18.webp",
+        "src2x": "/assets/projects/snapgo/18@2x.webp",
+        "width": 1920,
+        "height": 1080
+      },
+      {
+        "src": "/assets/projects/snapgo/19.webp",
+        "src2x": "/assets/projects/snapgo/19@2x.webp",
+        "width": 1920,
+        "height": 1080
+      },
+      {
+        "src": "/assets/projects/snapgo/20.webp",
+        "src2x": "/assets/projects/snapgo/20@2x.webp",
+        "width": 1920,
+        "height": 1080
+      },
+      {
+        "src": "/assets/projects/snapgo/21.webp",
+        "src2x": "/assets/projects/snapgo/21@2x.webp",
+        "width": 1920,
+        "height": 1080
+      },
+      {
+        "src": "/assets/projects/snapgo/22.webp",
+        "src2x": "/assets/projects/snapgo/22@2x.webp",
+        "width": 1920,
+        "height": 1080
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "slug": "echoes",
+    "title": "豫物新生",
+    "pageCount": 12,
+    "pages": [
+      {
+        "src": "/assets/projects/echoes/01.webp",
+        "src2x": "/assets/projects/echoes/01@2x.webp",
+        "width": 1920,
+        "height": 1080
+      },
+      {
+        "src": "/assets/projects/echoes/02.webp",
+        "src2x": "/assets/projects/echoes/02@2x.webp",
+        "width": 1920,
+        "height": 1080
+      },
+      {
+        "src": "/assets/projects/echoes/03.webp",
+        "src2x": "/assets/projects/echoes/03@2x.webp",
+        "width": 1920,
+        "height": 1080
+      },
+      {
+        "src": "/assets/projects/echoes/04.webp",
+        "src2x": "/assets/projects/echoes/04@2x.webp",
+        "width": 1920,
+        "height": 1080
+      },
+      {
+        "src": "/assets/projects/echoes/05.webp",
+        "src2x": "/assets/projects/echoes/05@2x.webp",
+        "width": 1920,
+        "height": 1080
+      },
+      {
+        "src": "/assets/projects/echoes/06.webp",
+        "src2x": "/assets/projects/echoes/06@2x.webp",
+        "width": 1920,
+        "height": 1080
+      },
+      {
+        "src": "/assets/projects/echoes/07.webp",
+        "src2x": "/assets/projects/echoes/07@2x.webp",
+        "width": 1920,
+        "height": 1080
+      },
+      {
+        "src": "/assets/projects/echoes/08.webp",
+        "src2x": "/assets/projects/echoes/08@2x.webp",
+        "width": 1920,
+        "height": 1080
+      },
+      {
+        "src": "/assets/projects/echoes/09.webp",
+        "src2x": "/assets/projects/echoes/09@2x.webp",
+        "width": 1920,
+        "height": 1080
+      },
+      {
+        "src": "/assets/projects/echoes/10.webp",
+        "src2x": "/assets/projects/echoes/10@2x.webp",
+        "width": 1920,
+        "height": 1080
+      },
+      {
+        "src": "/assets/projects/echoes/11.webp",
+        "src2x": "/assets/projects/echoes/11@2x.webp",
+        "width": 1920,
+        "height": 1080
+      },
+      {
+        "src": "/assets/projects/echoes/12.webp",
+        "src2x": "/assets/projects/echoes/12@2x.webp",
+        "width": 1920,
+        "height": 1080
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "slug": "lisu",
+    "title": "傈僳族品牌研究",
+    "pageCount": 10,
+    "pages": [
+      {
+        "src": "/assets/projects/lisu/01.webp",
+        "src2x": "/assets/projects/lisu/01@2x.webp",
+        "width": 1920,
+        "height": 1080
+      },
+      {
+        "src": "/assets/projects/lisu/02.webp",
+        "src2x": "/assets/projects/lisu/02@2x.webp",
+        "width": 1920,
+        "height": 1080
+      },
+      {
+        "src": "/assets/projects/lisu/03.webp",
+        "src2x": "/assets/projects/lisu/03@2x.webp",
+        "width": 1920,
+        "height": 1080
+      },
+      {
+        "src": "/assets/projects/lisu/04.webp",
+        "src2x": "/assets/projects/lisu/04@2x.webp",
+        "width": 1920,
+        "height": 1080
+      },
+      {
+        "src": "/assets/projects/lisu/05.webp",
+        "src2x": "/assets/projects/lisu/05@2x.webp",
+        "width": 1920,
+        "height": 1080
+      },
+      {
+        "src": "/assets/projects/lisu/06.webp",
+        "src2x": "/assets/projects/lisu/06@2x.webp",
+        "width": 1920,
+        "height": 1080
+      },
+      {
+        "src": "/assets/projects/lisu/07.webp",
+        "src2x": "/assets/projects/lisu/07@2x.webp",
+        "width": 1920,
+        "height": 1080
+      },
+      {
+        "src": "/assets/projects/lisu/08.webp",
+        "src2x": "/assets/projects/lisu/08@2x.webp",
+        "width": 1920,
+        "height": 1080
+      },
+      {
+        "src": "/assets/projects/lisu/09.webp",
+        "src2x": "/assets/projects/lisu/09@2x.webp",
+        "width": 1920,
+        "height": 1080
+      },
+      {
+        "src": "/assets/projects/lisu/10.webp",
+        "src2x": "/assets/projects/lisu/10@2x.webp",
+        "width": 1920,
+        "height": 3455
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "slug": "books",
+    "title": "书籍和插画",
+    "pageCount": 4,
+    "pages": [
+      {
+        "src": "/assets/projects/books/01.webp",
+        "src2x": "/assets/projects/books/01@2x.webp",
+        "width": 1920,
+        "height": 1080
+      },
+      {
+        "src": "/assets/projects/books/02.webp",
+        "src2x": "/assets/projects/books/02@2x.webp",
+        "width": 1920,
+        "height": 1080
+      },
+      {
+        "src": "/assets/projects/books/03.webp",
+        "src2x": "/assets/projects/books/03@2x.webp",
+        "width": 1920,
+        "height": 1080
+      },
+      {
+        "src": "/assets/projects/books/04.webp",
+        "src2x": "/assets/projects/books/04@2x.webp",
+        "width": 1920,
+        "height": 1080
+      }
+    ]
+  }
+]
