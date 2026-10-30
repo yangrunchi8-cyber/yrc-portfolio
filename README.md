@@ -2,7 +2,9 @@
 
 个人设计作品集。页面按 1920 × 1080 设计，手机与电脑共用相同排版，按屏幕等比缩放。包含六个项目的完整详情、环形目录、个人简介、简历与入场动效。
 
-公开网站：https://rinch-portfolio.netlify.app/
+公开网站：https://rinch-portfolio.yangrunchi8.workers.dev/
+
+备用网站：https://rinch-portfolio.netlify.app/
 
 ## 本地运行
 
