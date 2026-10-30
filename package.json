@@ -1,0 +1,21 @@
+{
+  "private": true,
+  "type": "module",
+  "dependencies": {
+    "react": "19.2.0",
+    "react-dom": "19.2.0",
+    "esbuild": "0.25.11",
+    "ogl": "1.0.11",
+    "@hugeicons/react": "latest",
+    "@hugeicons/core-free-icons": "latest"
+  },
+  "packageManager": "pnpm@10.11.0",
+  "name": "yrc-portfolio",
+  "version": "1.0.0",
+  "description": "阳润驰（Rinch）个人设计作品集",
+  "scripts": {
+    "build": "node scripts/build.mjs",
+    "start": "node scripts/serve.mjs",
+    "dev": "node scripts/serve.mjs"
+  }
+}
